@@ -34,7 +34,7 @@
 
 ### <strong><i>Como clonar o projeto:</i></strong>
 
-<p>git clone https://github.com/AlanFaraj83/Fresh-Cofee-Website.git</p>
+<p>git clone https://github.com/AlanFaraj1983/FreshCofeeWebsite.git</p>
 
 
 ## 📝 Licença
